@@ -125,7 +125,7 @@ export default {
     height: 1.3333rem;
     width: 100%;
     .van-search__content {
-      border-radius: 0.4rem;
+      border-radius: 15px;
     }
   }
 }
